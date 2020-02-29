@@ -1,0 +1,4 @@
+venv
+.idea
+logs.txt
+**/__pycache__/
